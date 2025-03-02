@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="406.85095mm"
+   height="113.48511mm"
+   viewBox="0 0 406.85095 113.48508"
+   version="1.1"
+   id="svg124"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview126"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="432.8125"
+     inkscape:cy="250.78125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="369"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs121">
+    <linearGradient
+       id="linearGradient37695"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop37693" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient37671"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop37669" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -77.222739 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="210.00003 : -77.222739 : 1"
+       inkscape:persp3d-origin="105.00002 : -126.72275 : 1"
+       id="perspective35521" />
+    <rect
+       x="-297.37527"
+       y="105.06544"
+       width="50.106533"
+       height="112.04599"
+       id="rect28336" />
+    <rect
+       x="883.56104"
+       y="25.956242"
+       width="10.606883"
+       height="47.247562"
+       id="rect24318" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter21836"
+       x="-0.012889144"
+       y="-0.013969137"
+       width="1.02553"
+       height="1.0194296">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0056808844"
+         id="feGaussianBlur21838" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(225.53883,142.11547)">
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path196"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="-564.38013"
+       sodipodi:cy="294.90247"
+       sodipodi:r1="230.42641"
+       sodipodi:r2="115.2132"
+       sodipodi:arg1="0.91227528"
+       sodipodi:arg2="1.5405938"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -423.37119,477.14628 -137.52974,-67.08316 -133.22921,75.26325 21.30085,-151.52839 -112.74969,-103.45088 150.69438,-26.56654 63.54607,-139.199412 71.83341,135.109362 152.02332,17.42092 -106.2989,110.06872 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-16.193706,-157.6475)"
+       inkscape:transform-center-x="0.56892193"
+       inkscape:transform-center-y="-5.2780961" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-89.484528"
+       y="-94.370903"
+       id="text2466"><tspan
+         sodipodi:role="line"
+         id="tspan2464"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-89.484528"
+         y="-94.370903">University of</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-89.484528"
+         y="-50.273651"
+         id="tspan11447">Placeholder</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text24316"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24318);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text28334"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28336);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter21836)"
+       d="m -199.84897,-29.238234 5.63585,-40.091884 -29.83169,-27.371381 39.87122,-7.029061 16.81323,-36.82984 19.00592,35.74768 40.22284,4.60929 -28.12492,29.122342 8.04585,39.678538 -36.38807,-17.749083 -35.25023,19.913399"
+       id="path21834" />
+  </g>
+</svg>

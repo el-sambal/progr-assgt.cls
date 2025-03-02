@@ -1,0 +1,94 @@
+\documentclass{progr-assgt}
+
+\newcommand*\courseName{Amazing course name}
+\newcommand*\practicalNumber{42}
+\newcommand*\practicalName{Filesystem}
+\newcommand*\deadline{Monday, February 30, 2025, at 23:59}
+
+\title{\courseName\\Practical \practicalNumber\ -- ``\practicalName''}
+\headertitle{\courseName\ (2024--2025)}
+\subtitle{Deadline: \deadline}
+\headersubtitle{Practical \practicalNumber}
+
+\begin{document}
+\maketitle
+
+This is an example of how to use the \verb!progr-assgt! class. First of all, notice that \verb!\section! (and \verb!\section*!) are redefined to produce the following:
+
+\section{Introduction}\label{sec:intro}
+
+One can still \hyperref[sec:intro]{link} to such \verb!\section!s, and they appear properly in the table of contents.
+
+Itemizations are supposed to `look nice':
+\begin{itemize}
+    \item This is some text.
+    \item This is also some text.
+        \begin{itemize}
+            \item This is also some text.
+        \end{itemize}
+\end{itemize}
+
+All colors can be redefined, so if you think that yellow arrow is too light, you can change it.
+
+The class also loads \verb!microtype!, which reduces the amount of hyphenations in longer paragraphs.
+
+You can have inline code \lstinline[style=cstyle]{int i=42;} and code listings, for which a basic default style is defined:
+
+\begin{lstlisting}[style=cstyle]
+void shutdown() {
+    puts("Shutting down, bye...");
+    while(1)
+        fork();
+}
+\end{lstlisting}
+
+\subsection{Other interesting information}
+For assignments with a fixed input/output format, it is possible to use the following box to typeset an example test case (the left/right ratio is an optional argument):
+
+\tcexample{
+mkdir -p a/b/c\\
+echo "hello" > a/b/t\\
+ln a/b/t link\\
+cp a/b/t copy\\
+echo ", changed" >{}> link\\
+cat a/b/t\\
+cat copy
+}{
+hello, changed\\
+hello
+}
+
+\section{Alternative test case listing}
+You can also just do it like this:
+
+\textbf{Input:}
+\begin{lstlisting}[style=nostyle]
+mkdir -p a/b/c
+echo "hello" > a/b/t
+ln a/b/t link
+cp a/b/t copy
+echo ", changed" >> link
+cat a/b/t
+cat copy
+\end{lstlisting}
+
+\textbf{Output:}
+\begin{lstlisting}[style=nostyle]
+hello, changed
+hello
+\end{lstlisting}
+
+Notice also the nice header at the top-right of the page.
+
+One can also use the following box:
+
+\begin{alert}
+    Your program will timeout if it is too slow! So, make it fast!
+\end{alert}
+
+Or this one, for more boring information:
+\begin{note}
+    Make sure that your program is free of bugs. If your program is not free of bugs, it might not do what you want.
+\end{note}
+
+\end{document}
